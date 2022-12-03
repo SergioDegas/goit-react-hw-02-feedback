@@ -1,5 +1,5 @@
 import { Component } from 'react';
-import { Box } from './Box';
+
 import { GlobalStyle } from './GlobalStyle';
 import Section from './Feedback/Section/Section';
 import FeedbackOptions from './Feedback/FeedbackOptions';
